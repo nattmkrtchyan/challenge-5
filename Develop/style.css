@@ -69,3 +69,13 @@ textarea{
   font-size: 20px;
   transition: all .3s ease-in-out;
 }
+
+.show {
+  display: block;
+}
+
+.notification{
+  display:none;
+  padding-bottom:10px;
+color:#000000;
+}
